@@ -1,6 +1,6 @@
 public class prg{
   public static void main(String args[] ){
-    System.out.println("answer");
+    System.out.println("skill test");
   }
 }
   
